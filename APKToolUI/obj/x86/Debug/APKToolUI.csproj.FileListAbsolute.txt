@@ -1,0 +1,30 @@
+C:\Users\Антон\AppData\Local\Temporary Projects\APKToolUI\bin\Debug\APKToolUI.exe
+C:\Users\Антон\AppData\Local\Temporary Projects\APKToolUI\bin\Debug\APKToolUI.pdb
+C:\Users\Антон\AppData\Local\Temporary Projects\APKToolUI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Антон\AppData\Local\Temporary Projects\APKToolUI\obj\x86\Debug\APKToolUI.Form1.resources
+C:\Users\Антон\AppData\Local\Temporary Projects\APKToolUI\obj\x86\Debug\APKToolUI.Properties.Resources.resources
+C:\Users\Антон\AppData\Local\Temporary Projects\APKToolUI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Антон\AppData\Local\Temporary Projects\APKToolUI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Антон\AppData\Local\Temporary Projects\APKToolUI\obj\x86\Debug\APKToolUI.exe
+C:\Users\Антон\AppData\Local\Temporary Projects\APKToolUI\obj\x86\Debug\APKToolUI.pdb
+C:\Users\Антон\Desktop\APKToolUI\APKToolUI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Антон\Desktop\APKToolUI\APKToolUI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Антон\Desktop\APKToolUI\APKToolUI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Антон\Desktop\APKToolUI\APKToolUI\bin\Debug\APKToolGUI.exe
+C:\Users\Антон\Desktop\APKToolUI\APKToolUI\bin\Debug\APKToolGUI.pdb
+C:\Users\Антон\Desktop\APKToolUI\APKToolUI\obj\x86\Debug\APKToolGUI.Form1.resources
+C:\Users\Антон\Desktop\APKToolUI\APKToolUI\obj\x86\Debug\APKToolGUI.Properties.Resources.resources
+C:\Users\Антон\Desktop\APKToolUI\APKToolUI\obj\x86\Debug\APKToolGUI.exe
+C:\Users\Антон\Desktop\APKToolUI\APKToolUI\obj\x86\Debug\APKToolGUI.pdb
+d:\visual studio 2010\Projects\APKToolGUI\APKToolUI\obj\x86\Debug\APKToolGUI.exe
+d:\visual studio 2010\Projects\APKToolGUI\APKToolUI\obj\x86\Debug\APKToolGUI.pdb
+d:\visual studio 2010\Projects\APKToolGUI\APKToolUI\bin\Debug\APKToolGUI.exe
+d:\visual studio 2010\Projects\APKToolGUI\APKToolUI\bin\Debug\APKToolGUI.pdb
+d:\visual studio 2010\Projects\APKToolGUI\APKToolUI\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\visual studio 2010\Projects\APKToolGUI\APKToolUI\obj\x86\Debug\APKToolGUI.Form1.resources
+d:\visual studio 2010\Projects\APKToolGUI\APKToolUI\obj\x86\Debug\APKToolGUI.Properties.Resources.resources
+d:\visual studio 2010\Projects\APKToolGUI\APKToolUI\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\visual studio 2010\Projects\APKToolGUI\APKToolUI\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\visual studio 2010\Projects\APKToolGUI\APKToolUI\bin\Debug\APKToolGUI.exe.config
+d:\visual studio 2010\Projects\APKToolGUI\APKToolUI\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+d:\visual studio 2010\Projects\APKToolGUI\APKToolUI\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog

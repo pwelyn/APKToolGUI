@@ -1,0 +1,21 @@
+C:\Users\Антон\Desktop\APKToolUI\APKToolUI\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Антон\Desktop\APKToolUI\APKToolUI\obj\x86\Release\APKToolGUI.Form1.resources
+C:\Users\Антон\Desktop\APKToolUI\APKToolUI\obj\x86\Release\APKToolGUI.Properties.Resources.resources
+C:\Users\Антон\Desktop\APKToolUI\APKToolUI\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Антон\Desktop\APKToolUI\APKToolUI\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Антон\Desktop\APKToolUI\APKToolUI\bin\Release\APKToolGUI.exe
+C:\Users\Антон\Desktop\APKToolUI\APKToolUI\bin\Release\APKToolGUI.pdb
+C:\Users\Антон\Desktop\APKToolUI\APKToolUI\obj\x86\Release\APKToolGUI.exe
+C:\Users\Антон\Desktop\APKToolUI\APKToolUI\obj\x86\Release\APKToolGUI.pdb
+d:\visual studio 2010\Projects\APKToolGUI\APKToolUI\bin\Release\APKToolGUI.exe
+d:\visual studio 2010\Projects\APKToolGUI\APKToolUI\bin\Release\APKToolGUI.pdb
+d:\visual studio 2010\Projects\APKToolGUI\APKToolUI\obj\x86\Release\ResolveAssemblyReference.cache
+d:\visual studio 2010\Projects\APKToolGUI\APKToolUI\obj\x86\Release\APKToolGUI.Form1.resources
+d:\visual studio 2010\Projects\APKToolGUI\APKToolUI\obj\x86\Release\APKToolGUI.Properties.Resources.resources
+d:\visual studio 2010\Projects\APKToolGUI\APKToolUI\obj\x86\Release\GenerateResource.read.1.tlog
+d:\visual studio 2010\Projects\APKToolGUI\APKToolUI\obj\x86\Release\GenerateResource.write.1.tlog
+d:\visual studio 2010\Projects\APKToolGUI\APKToolUI\obj\x86\Release\APKToolGUI.exe
+d:\visual studio 2010\Projects\APKToolGUI\APKToolUI\obj\x86\Release\APKToolGUI.pdb
+d:\visual studio 2010\Projects\APKToolGUI\APKToolUI\bin\Release\APKToolGUI.exe.config
+d:\visual studio 2010\Projects\APKToolGUI\APKToolUI\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+d:\visual studio 2010\Projects\APKToolGUI\APKToolUI\obj\x86\Release\GenerateResource-ResGen.write.1.tlog

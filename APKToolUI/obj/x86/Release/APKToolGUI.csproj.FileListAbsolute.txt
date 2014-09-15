@@ -1,0 +1,331 @@
+d:\visual studio 2010\Projects\APKToolGUI\APKToolUI\bin\Release\APKToolGUI.exe.config
+d:\visual studio 2010\Projects\APKToolGUI\APKToolUI\bin\Release\APKToolGUI.exe
+d:\visual studio 2010\Projects\APKToolGUI\APKToolUI\bin\Release\APKToolGUI.pdb
+d:\visual studio 2010\Projects\APKToolGUI\APKToolUI\obj\x86\Release\ResolveAssemblyReference.cache
+d:\visual studio 2010\Projects\APKToolGUI\APKToolUI\obj\x86\Release\APKToolGUI.Form1.resources
+d:\visual studio 2010\Projects\APKToolGUI\APKToolUI\obj\x86\Release\APKToolGUI.Properties.Resources.resources
+d:\visual studio 2010\Projects\APKToolGUI\APKToolUI\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+d:\visual studio 2010\Projects\APKToolGUI\APKToolUI\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+d:\visual studio 2010\Projects\APKToolGUI\APKToolUI\obj\x86\Release\APKToolGUI.exe
+d:\visual studio 2010\Projects\APKToolGUI\APKToolUI\obj\x86\Release\APKToolGUI.pdb
+D:\visual studio 2010\Projects\APKToolGUI\APKToolUI\obj\x86\Release\APKToolGUI.FormJavaFIX.resources
+d:\visual studio 2010\Projects\APKToolGUI\APKToolUI\bin\Release\APKToolGUI.exe.manifest
+d:\visual studio 2010\Projects\APKToolGUI\APKToolUI\bin\Release\APKToolGUI.application
+d:\visual studio 2010\Projects\APKToolGUI\APKToolUI\obj\x86\Release\APKToolGUI.TrustInfo.xml
+d:\visual studio 2010\Projects\APKToolGUI\APKToolUI\obj\x86\Release\APKToolGUI.exe.manifest
+d:\visual studio 2010\Projects\APKToolGUI\APKToolUI\obj\x86\Release\APKToolGUI.application
+d:\Dropbox\APKToolGUI\APKToolUI\obj\x86\Release\APKToolGUI.exe
+d:\Dropbox\APKToolGUI\APKToolUI\obj\x86\Release\APKToolGUI.pdb
+D:\Dropbox\APKToolGUI\APKToolUI\bin\Release\APKToolGUI.exe.manifest
+D:\Dropbox\APKToolGUI\APKToolUI\bin\Release\APKToolGUI.application
+D:\Dropbox\APKToolGUI\APKToolUI\bin\Release\APKToolGUI.exe
+D:\Dropbox\APKToolGUI\APKToolUI\bin\Release\APKToolGUI.pdb
+D:\Dropbox\APKToolGUI\APKToolUI\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Dropbox\APKToolGUI\APKToolUI\obj\x86\Release\APKToolGUI.Form1.resources
+D:\Dropbox\APKToolGUI\APKToolUI\obj\x86\Release\APKToolGUI.Properties.Resources.resources
+D:\Dropbox\APKToolGUI\APKToolUI\obj\x86\Release\ResGen.read.1.tlog
+D:\Dropbox\APKToolGUI\APKToolUI\obj\x86\Release\ResGen.write.1.tlog
+D:\Dropbox\APKToolGUI\APKToolUI\obj\x86\Release\APKToolGUI.TrustInfo.xml
+D:\Dropbox\APKToolGUI\APKToolUI\obj\x86\Release\APKToolGUI.exe.manifest
+D:\Dropbox\APKToolGUI\APKToolUI\obj\x86\Release\APKToolGUI.application
+D:\Dropbox\APKToolGUI\APKToolUI\obj\x86\Release\APKToolGUI.FormAbout.resources
+D:\Dropbox\APKToolGUI\APKToolUI\obj\x86\Release\APKToolGUI.FormSettings.resources
+d:\Dropbox\APKToolGUI\APKToolUI\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+d:\Dropbox\APKToolGUI\APKToolUI\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+d:\Dropbox\APKToolUI\APKToolUI\bin\Release\APKToolGUI.exe.manifest
+d:\Dropbox\APKToolUI\APKToolUI\bin\Release\APKToolGUI.application
+d:\Dropbox\APKToolUI\APKToolUI\bin\Release\APKToolGUI.exe
+d:\Dropbox\APKToolUI\APKToolUI\bin\Release\APKToolGUI.pdb
+d:\Dropbox\APKToolUI\APKToolUI\obj\x86\Release\ResolveAssemblyReference.cache
+d:\Dropbox\APKToolUI\APKToolUI\obj\x86\Release\APKToolGUI.Form1.resources
+d:\Dropbox\APKToolUI\APKToolUI\obj\x86\Release\APKToolGUI.Properties.Resources.resources
+d:\Dropbox\APKToolUI\APKToolUI\obj\x86\Release\ResGen.read.1.tlog
+d:\Dropbox\APKToolUI\APKToolUI\obj\x86\Release\ResGen.write.1.tlog
+d:\Dropbox\APKToolUI\APKToolUI\obj\x86\Release\APKToolGUI.TrustInfo.xml
+d:\Dropbox\APKToolUI\APKToolUI\obj\x86\Release\APKToolGUI.exe.manifest
+d:\Dropbox\APKToolUI\APKToolUI\obj\x86\Release\APKToolGUI.application
+d:\Dropbox\APKToolUI\APKToolUI\obj\x86\Release\APKToolGUI.exe
+d:\Dropbox\APKToolUI\APKToolUI\obj\x86\Release\APKToolGUI.pdb
+d:\Dropbox\APKToolUI\APKToolUI\obj\x86\Release\APKToolGUI.AboutBox1.resources
+D:\Dropbox\APKToolUI\APKToolUI\bin\Release\ru-RU\APKToolGUI.resources.dll
+D:\Dropbox\APKToolUI\APKToolUI\obj\x86\Release\APKToolGUI.FormSettings.resources
+D:\Dropbox\APKToolUI\APKToolUI\obj\x86\Release\APKToolGUI.FormSettings.ru-RU.resources
+D:\Dropbox\APKToolUI\APKToolUI\obj\x86\Release\ru-RU\APKToolGUI.resources.dll
+D:\Dropbox\APKToolUI\APKToolUI\obj\x86\Release\APKToolGUI.Language.resources
+D:\Dropbox\APKToolUI\APKToolUI\obj\x86\Release\APKToolGUI.Language.ru-RU.resources
+D:\Dropbox\APKToolUI\APKToolUI\obj\x86\Release\APKToolGUI.Form1.ru-RU.resources
+D:\Dropbox\APKToolUI\APKToolUI\obj\x86\Release\APKToolGUI.AboutBox1.ru-RU.resources
+D:\Dropbox\APKToolUI\APKToolUI\obj\x86\Release\APKToolGUI.FormDownload.resources
+D:\Dropbox\APKToolUI\APKToolUI\obj\x86\Release\APKToolGUI.FormDownload.ru-RU.resources
+D:\Dropbox\APKToolUI2\APKToolUI\bin\Release\APKToolGUI.exe.manifest
+D:\Dropbox\APKToolUI2\APKToolUI\bin\Release\APKToolGUI.application
+D:\Dropbox\APKToolUI2\APKToolUI\bin\Release\APKToolGUI.exe
+D:\Dropbox\APKToolUI2\APKToolUI\bin\Release\APKToolGUI.pdb
+D:\Dropbox\APKToolUI2\APKToolUI\bin\Release\ru-RU\APKToolGUI.resources.dll
+D:\Dropbox\APKToolUI2\APKToolUI\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Dropbox\APKToolUI2\APKToolUI\obj\x86\Release\APKToolGUI.AboutBox1.resources
+D:\Dropbox\APKToolUI2\APKToolUI\obj\x86\Release\APKToolGUI.Form1.resources
+D:\Dropbox\APKToolUI2\APKToolUI\obj\x86\Release\APKToolGUI.FormDownload.resources
+D:\Dropbox\APKToolUI2\APKToolUI\obj\x86\Release\APKToolGUI.FormSettings.resources
+D:\Dropbox\APKToolUI2\APKToolUI\obj\x86\Release\APKToolGUI.Properties.Resources.resources
+D:\Dropbox\APKToolUI2\APKToolUI\obj\x86\Release\APKToolGUI.Language.resources
+D:\Dropbox\APKToolUI2\APKToolUI\obj\x86\Release\APKToolGUI.AboutBox1.ru-RU.resources
+D:\Dropbox\APKToolUI2\APKToolUI\obj\x86\Release\APKToolGUI.Form1.ru-RU.resources
+D:\Dropbox\APKToolUI2\APKToolUI\obj\x86\Release\APKToolGUI.FormDownload.ru-RU.resources
+D:\Dropbox\APKToolUI2\APKToolUI\obj\x86\Release\APKToolGUI.FormSettings.ru-RU.resources
+D:\Dropbox\APKToolUI2\APKToolUI\obj\x86\Release\APKToolGUI.Language.ru-RU.resources
+D:\Dropbox\APKToolUI2\APKToolUI\obj\x86\Release\ResGen.read.1.tlog
+D:\Dropbox\APKToolUI2\APKToolUI\obj\x86\Release\ResGen.write.1.tlog
+D:\Dropbox\APKToolUI2\APKToolUI\obj\x86\Release\ru-RU\APKToolGUI.resources.dll
+D:\Dropbox\APKToolUI2\APKToolUI\obj\x86\Release\APKToolGUI.TrustInfo.xml
+D:\Dropbox\APKToolUI2\APKToolUI\obj\x86\Release\APKToolGUI.exe.manifest
+D:\Dropbox\APKToolUI2\APKToolUI\obj\x86\Release\APKToolGUI.application
+D:\Dropbox\APKToolUI2\APKToolUI\obj\x86\Release\APKToolGUI.exe
+D:\Dropbox\APKToolUI2\APKToolUI\obj\x86\Release\APKToolGUI.pdb
+D:\Dropbox\APKToolUI_2\APKToolUI\bin\Release\APKToolGUI.exe.config
+D:\Dropbox\APKToolUI_2\APKToolUI\bin\Release\APKToolGUI.exe.manifest
+D:\Dropbox\APKToolUI_2\APKToolUI\bin\Release\APKToolGUI.application
+D:\Dropbox\APKToolUI_2\APKToolUI\bin\Release\APKToolGUI.exe
+D:\Dropbox\APKToolUI_2\APKToolUI\bin\Release\APKToolGUI.pdb
+D:\Dropbox\APKToolUI_2\APKToolUI\bin\Release\ru-RU\APKToolGUI.resources.dll
+D:\Dropbox\APKToolUI_2\APKToolUI\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Dropbox\APKToolUI_2\APKToolUI\obj\x86\Release\APKToolGUI.AboutBox1.resources
+D:\Dropbox\APKToolUI_2\APKToolUI\obj\x86\Release\APKToolGUI.Form1.resources
+D:\Dropbox\APKToolUI_2\APKToolUI\obj\x86\Release\APKToolGUI.FormDownload.resources
+D:\Dropbox\APKToolUI_2\APKToolUI\obj\x86\Release\APKToolGUI.FormSettings.resources
+D:\Dropbox\APKToolUI_2\APKToolUI\obj\x86\Release\APKToolGUI.Properties.Resources.resources
+D:\Dropbox\APKToolUI_2\APKToolUI\obj\x86\Release\APKToolGUI.Language.resources
+D:\Dropbox\APKToolUI_2\APKToolUI\obj\x86\Release\APKToolGUI.AboutBox1.ru-RU.resources
+D:\Dropbox\APKToolUI_2\APKToolUI\obj\x86\Release\APKToolGUI.Form1.ru-RU.resources
+D:\Dropbox\APKToolUI_2\APKToolUI\obj\x86\Release\APKToolGUI.FormDownload.ru-RU.resources
+D:\Dropbox\APKToolUI_2\APKToolUI\obj\x86\Release\APKToolGUI.FormSettings.ru-RU.resources
+D:\Dropbox\APKToolUI_2\APKToolUI\obj\x86\Release\APKToolGUI.Language.ru-RU.resources
+D:\Dropbox\APKToolUI_2\APKToolUI\obj\x86\Release\ResGen.read.1.tlog
+D:\Dropbox\APKToolUI_2\APKToolUI\obj\x86\Release\ResGen.write.1.tlog
+D:\Dropbox\APKToolUI_2\APKToolUI\obj\x86\Release\ru-RU\APKToolGUI.resources.dll
+D:\Dropbox\APKToolUI_2\APKToolUI\obj\x86\Release\APKToolGUI.TrustInfo.xml
+D:\Dropbox\APKToolUI_2\APKToolUI\obj\x86\Release\APKToolGUI.exe.manifest
+D:\Dropbox\APKToolUI_2\APKToolUI\obj\x86\Release\APKToolGUI.application
+D:\Dropbox\APKToolUI_2\APKToolUI\obj\x86\Release\APKToolGUI.exe
+D:\Dropbox\APKToolUI_2\APKToolUI\obj\x86\Release\APKToolGUI.pdb
+D:\Dropbox\C#\APKToolUI_2.1\APKToolUI\bin\Release\APKToolGUI.exe.config
+D:\Dropbox\C#\APKToolUI_2.1\APKToolUI\bin\Release\APKToolGUI.exe.manifest
+D:\Dropbox\C#\APKToolUI_2.1\APKToolUI\bin\Release\APKToolGUI.application
+D:\Dropbox\C#\APKToolUI_2.1\APKToolUI\bin\Release\APKToolGUI.exe
+D:\Dropbox\C#\APKToolUI_2.1\APKToolUI\bin\Release\ru-RU\APKToolGUI.resources.dll
+D:\Dropbox\C#\APKToolUI_2.1\APKToolUI\obj\x86\Release\APKToolGUI.FormDownload.resources
+D:\Dropbox\C#\APKToolUI_2.1\APKToolUI\obj\x86\Release\APKToolGUI.FormExecution.resources
+D:\Dropbox\C#\APKToolUI_2.1\APKToolUI\obj\x86\Release\APKToolGUI.FormSettings.resources
+D:\Dropbox\C#\APKToolUI_2.1\APKToolUI\obj\x86\Release\APKToolGUI.Properties.Resources.resources
+D:\Dropbox\C#\APKToolUI_2.1\APKToolUI\obj\x86\Release\APKToolGUI.Language.resources
+D:\Dropbox\C#\APKToolUI_2.1\APKToolUI\obj\x86\Release\APKToolGUI.FormDownload.ru-RU.resources
+D:\Dropbox\C#\APKToolUI_2.1\APKToolUI\obj\x86\Release\APKToolGUI.FormExecution.ru-RU.resources
+D:\Dropbox\C#\APKToolUI_2.1\APKToolUI\obj\x86\Release\APKToolGUI.FormSettings.ru-RU.resources
+D:\Dropbox\C#\APKToolUI_2.1\APKToolUI\obj\x86\Release\APKToolGUI.Language.ru-RU.resources
+D:\Dropbox\C#\APKToolUI_2.1\APKToolUI\obj\x86\Release\ru-RU\APKToolGUI.resources.dll
+D:\Dropbox\C#\APKToolUI_2.1\APKToolUI\obj\x86\Release\APKToolGUI.TrustInfo.xml
+D:\Dropbox\C#\APKToolUI_2.1\APKToolUI\obj\x86\Release\APKToolGUI.exe.manifest
+D:\Dropbox\C#\APKToolUI_2.1\APKToolUI\obj\x86\Release\APKToolGUI.application
+D:\Dropbox\C#\APKToolUI_2.1\APKToolUI\obj\x86\Release\APKToolGUI.exe
+D:\Dropbox\C#\APKToolUI_2.1\APKToolUI\obj\x86\Release\APKToolGUI.FormMain.resources
+D:\Dropbox\C#\APKToolUI_2.1\APKToolUI\obj\x86\Release\APKToolGUI.FormMain.ru-RU.resources
+D:\Dropbox\C#\APKToolUI_2.1\APKToolUI\obj\x86\Release\APKToolGUI.FormAboutBox.resources
+D:\Dropbox\C#\APKToolUI_2.1\APKToolUI\obj\x86\Release\APKToolGUI.FormAboutBox.ru-RU.resources
+D:\Dropbox\C#\APKToolUI_2.1\APKToolUI\bin\Release\uk-UA\APKToolGUI.resources.dll
+D:\Dropbox\C#\APKToolUI_2.1\APKToolUI\obj\x86\Release\APKToolGUI.FormAboutBox.uk-UA.resources
+D:\Dropbox\C#\APKToolUI_2.1\APKToolUI\obj\x86\Release\APKToolGUI.FormExecution.uk-UA.resources
+D:\Dropbox\C#\APKToolUI_2.1\APKToolUI\obj\x86\Release\APKToolGUI.FormMain.uk-UA.resources
+D:\Dropbox\C#\APKToolUI_2.1\APKToolUI\obj\x86\Release\APKToolGUI.FormSettings.uk-UA.resources
+D:\Dropbox\C#\APKToolUI_2.1\APKToolUI\obj\x86\Release\APKToolGUI.Language.uk-UA.resources
+D:\Dropbox\C#\APKToolUI_2.1\APKToolUI\obj\x86\Release\uk-UA\APKToolGUI.resources.dll
+D:\Dropbox\C#\APKToolUI_2.1\APKToolUI\obj\x86\Release\APKToolGUI.csproj.GenerateResource.Cache
+D:\visual studio 2010\Projects\APKToolUI_2.2\APKToolUI\bin\Release\APKToolGUI.exe.config
+D:\visual studio 2010\Projects\APKToolUI_2.2\APKToolUI\bin\Release\APKToolGUI.exe.manifest
+D:\visual studio 2010\Projects\APKToolUI_2.2\APKToolUI\bin\Release\APKToolGUI.application
+D:\visual studio 2010\Projects\APKToolUI_2.2\APKToolUI\bin\Release\APKToolGUI.exe
+D:\visual studio 2010\Projects\APKToolUI_2.2\APKToolUI\bin\Release\ru-RU\APKToolGUI.resources.dll
+D:\visual studio 2010\Projects\APKToolUI_2.2\APKToolUI\bin\Release\uk-UA\APKToolGUI.resources.dll
+D:\visual studio 2010\Projects\APKToolUI_2.2\APKToolUI\obj\x86\Release\APKToolGUI.FormAboutBox.resources
+D:\visual studio 2010\Projects\APKToolUI_2.2\APKToolUI\obj\x86\Release\APKToolGUI.FormMain.resources
+D:\visual studio 2010\Projects\APKToolUI_2.2\APKToolUI\obj\x86\Release\APKToolGUI.FormDownload.resources
+D:\visual studio 2010\Projects\APKToolUI_2.2\APKToolUI\obj\x86\Release\APKToolGUI.FormExecution.resources
+D:\visual studio 2010\Projects\APKToolUI_2.2\APKToolUI\obj\x86\Release\APKToolGUI.FormSettings.resources
+D:\visual studio 2010\Projects\APKToolUI_2.2\APKToolUI\obj\x86\Release\APKToolGUI.Properties.Resources.resources
+D:\visual studio 2010\Projects\APKToolUI_2.2\APKToolUI\obj\x86\Release\APKToolGUI.Language.resources
+D:\visual studio 2010\Projects\APKToolUI_2.2\APKToolUI\obj\x86\Release\APKToolGUI.FormAboutBox.ru-RU.resources
+D:\visual studio 2010\Projects\APKToolUI_2.2\APKToolUI\obj\x86\Release\APKToolGUI.FormAboutBox.uk-UA.resources
+D:\visual studio 2010\Projects\APKToolUI_2.2\APKToolUI\obj\x86\Release\APKToolGUI.FormExecution.uk-UA.resources
+D:\visual studio 2010\Projects\APKToolUI_2.2\APKToolUI\obj\x86\Release\APKToolGUI.FormMain.ru-RU.resources
+D:\visual studio 2010\Projects\APKToolUI_2.2\APKToolUI\obj\x86\Release\APKToolGUI.FormDownload.ru-RU.resources
+D:\visual studio 2010\Projects\APKToolUI_2.2\APKToolUI\obj\x86\Release\APKToolGUI.FormExecution.ru-RU.resources
+D:\visual studio 2010\Projects\APKToolUI_2.2\APKToolUI\obj\x86\Release\APKToolGUI.FormMain.uk-UA.resources
+D:\visual studio 2010\Projects\APKToolUI_2.2\APKToolUI\obj\x86\Release\APKToolGUI.FormSettings.ru-RU.resources
+D:\visual studio 2010\Projects\APKToolUI_2.2\APKToolUI\obj\x86\Release\APKToolGUI.FormSettings.uk-UA.resources
+D:\visual studio 2010\Projects\APKToolUI_2.2\APKToolUI\obj\x86\Release\APKToolGUI.Language.ru-RU.resources
+D:\visual studio 2010\Projects\APKToolUI_2.2\APKToolUI\obj\x86\Release\APKToolGUI.Language.uk-UA.resources
+D:\visual studio 2010\Projects\APKToolUI_2.2\APKToolUI\obj\x86\Release\APKToolGUI.csproj.GenerateResource.Cache
+D:\visual studio 2010\Projects\APKToolUI_2.2\APKToolUI\obj\x86\Release\ru-RU\APKToolGUI.resources.dll
+D:\visual studio 2010\Projects\APKToolUI_2.2\APKToolUI\obj\x86\Release\uk-UA\APKToolGUI.resources.dll
+D:\visual studio 2010\Projects\APKToolUI_2.2\APKToolUI\obj\x86\Release\APKToolGUI.TrustInfo.xml
+D:\visual studio 2010\Projects\APKToolUI_2.2\APKToolUI\obj\x86\Release\APKToolGUI.exe.manifest
+D:\visual studio 2010\Projects\APKToolUI_2.2\APKToolUI\obj\x86\Release\APKToolGUI.application
+D:\visual studio 2010\Projects\APKToolUI_2.2\APKToolUI\obj\x86\Release\APKToolGUI.exe
+D:\VSProjects\APKToolUI_2.2\APKToolUI\bin\Release\APKToolGUI.exe.config
+D:\VSProjects\APKToolUI_2.2\APKToolUI\bin\Release\APKToolGUI.exe.manifest
+D:\VSProjects\APKToolUI_2.2\APKToolUI\bin\Release\APKToolGUI.application
+D:\VSProjects\APKToolUI_2.2\APKToolUI\bin\Release\APKToolGUI.exe
+D:\VSProjects\APKToolUI_2.2\APKToolUI\bin\Release\ru-RU\APKToolGUI.resources.dll
+D:\VSProjects\APKToolUI_2.2\APKToolUI\bin\Release\uk-UA\APKToolGUI.resources.dll
+D:\VSProjects\APKToolUI_2.2\APKToolUI\obj\x86\Release\APKToolGUI.FormAboutBox.resources
+D:\VSProjects\APKToolUI_2.2\APKToolUI\obj\x86\Release\APKToolGUI.FormMain.resources
+D:\VSProjects\APKToolUI_2.2\APKToolUI\obj\x86\Release\APKToolGUI.FormDownload.resources
+D:\VSProjects\APKToolUI_2.2\APKToolUI\obj\x86\Release\APKToolGUI.FormExecution.resources
+D:\VSProjects\APKToolUI_2.2\APKToolUI\obj\x86\Release\APKToolGUI.FormSettings.resources
+D:\VSProjects\APKToolUI_2.2\APKToolUI\obj\x86\Release\APKToolGUI.Properties.Resources.resources
+D:\VSProjects\APKToolUI_2.2\APKToolUI\obj\x86\Release\APKToolGUI.Language.resources
+D:\VSProjects\APKToolUI_2.2\APKToolUI\obj\x86\Release\APKToolGUI.FormAboutBox.ru-RU.resources
+D:\VSProjects\APKToolUI_2.2\APKToolUI\obj\x86\Release\APKToolGUI.FormAboutBox.uk-UA.resources
+D:\VSProjects\APKToolUI_2.2\APKToolUI\obj\x86\Release\APKToolGUI.FormExecution.uk-UA.resources
+D:\VSProjects\APKToolUI_2.2\APKToolUI\obj\x86\Release\APKToolGUI.FormMain.ru-RU.resources
+D:\VSProjects\APKToolUI_2.2\APKToolUI\obj\x86\Release\APKToolGUI.FormDownload.ru-RU.resources
+D:\VSProjects\APKToolUI_2.2\APKToolUI\obj\x86\Release\APKToolGUI.FormExecution.ru-RU.resources
+D:\VSProjects\APKToolUI_2.2\APKToolUI\obj\x86\Release\APKToolGUI.FormMain.uk-UA.resources
+D:\VSProjects\APKToolUI_2.2\APKToolUI\obj\x86\Release\APKToolGUI.FormSettings.ru-RU.resources
+D:\VSProjects\APKToolUI_2.2\APKToolUI\obj\x86\Release\APKToolGUI.FormSettings.uk-UA.resources
+D:\VSProjects\APKToolUI_2.2\APKToolUI\obj\x86\Release\APKToolGUI.Language.ru-RU.resources
+D:\VSProjects\APKToolUI_2.2\APKToolUI\obj\x86\Release\APKToolGUI.Language.uk-UA.resources
+D:\VSProjects\APKToolUI_2.2\APKToolUI\obj\x86\Release\APKToolGUI.csproj.GenerateResource.Cache
+D:\VSProjects\APKToolUI_2.2\APKToolUI\obj\x86\Release\ru-RU\APKToolGUI.resources.dll
+D:\VSProjects\APKToolUI_2.2\APKToolUI\obj\x86\Release\uk-UA\APKToolGUI.resources.dll
+D:\VSProjects\APKToolUI_2.2\APKToolUI\obj\x86\Release\APKToolGUI.TrustInfo.xml
+D:\VSProjects\APKToolUI_2.2\APKToolUI\obj\x86\Release\APKToolGUI.exe.manifest
+D:\VSProjects\APKToolUI_2.2\APKToolUI\obj\x86\Release\APKToolGUI.application
+D:\VSProjects\APKToolUI_2.2\APKToolUI\obj\x86\Release\APKToolGUI.exe
+D:\visual studio 2010\Projects\APKToolUI_2.2+Java_ТЕСТ\APKToolUI\bin\Release\APKToolGUI.exe.config
+D:\visual studio 2010\Projects\APKToolUI_2.2+Java_ТЕСТ\APKToolUI\bin\Release\APKToolGUI.exe.manifest
+D:\visual studio 2010\Projects\APKToolUI_2.2+Java_ТЕСТ\APKToolUI\bin\Release\APKToolGUI.application
+D:\visual studio 2010\Projects\APKToolUI_2.2+Java_ТЕСТ\APKToolUI\bin\Release\APKToolGUI.exe
+D:\visual studio 2010\Projects\APKToolUI_2.2+Java_ТЕСТ\APKToolUI\bin\Release\ru-RU\APKToolGUI.resources.dll
+D:\visual studio 2010\Projects\APKToolUI_2.2+Java_ТЕСТ\APKToolUI\bin\Release\uk-UA\APKToolGUI.resources.dll
+D:\visual studio 2010\Projects\APKToolUI_2.2+Java_ТЕСТ\APKToolUI\obj\x86\Release\APKToolGUI.FormAboutBox.resources
+D:\visual studio 2010\Projects\APKToolUI_2.2+Java_ТЕСТ\APKToolUI\obj\x86\Release\APKToolGUI.FormMain.resources
+D:\visual studio 2010\Projects\APKToolUI_2.2+Java_ТЕСТ\APKToolUI\obj\x86\Release\APKToolGUI.FormDownload.resources
+D:\visual studio 2010\Projects\APKToolUI_2.2+Java_ТЕСТ\APKToolUI\obj\x86\Release\APKToolGUI.FormExecution.resources
+D:\visual studio 2010\Projects\APKToolUI_2.2+Java_ТЕСТ\APKToolUI\obj\x86\Release\APKToolGUI.FormSettings.resources
+D:\visual studio 2010\Projects\APKToolUI_2.2+Java_ТЕСТ\APKToolUI\obj\x86\Release\APKToolGUI.Properties.Resources.resources
+D:\visual studio 2010\Projects\APKToolUI_2.2+Java_ТЕСТ\APKToolUI\obj\x86\Release\APKToolGUI.Language.resources
+D:\visual studio 2010\Projects\APKToolUI_2.2+Java_ТЕСТ\APKToolUI\obj\x86\Release\APKToolGUI.FormAboutBox.ru-RU.resources
+D:\visual studio 2010\Projects\APKToolUI_2.2+Java_ТЕСТ\APKToolUI\obj\x86\Release\APKToolGUI.FormAboutBox.uk-UA.resources
+D:\visual studio 2010\Projects\APKToolUI_2.2+Java_ТЕСТ\APKToolUI\obj\x86\Release\APKToolGUI.FormExecution.uk-UA.resources
+D:\visual studio 2010\Projects\APKToolUI_2.2+Java_ТЕСТ\APKToolUI\obj\x86\Release\APKToolGUI.FormMain.ru-RU.resources
+D:\visual studio 2010\Projects\APKToolUI_2.2+Java_ТЕСТ\APKToolUI\obj\x86\Release\APKToolGUI.FormDownload.ru-RU.resources
+D:\visual studio 2010\Projects\APKToolUI_2.2+Java_ТЕСТ\APKToolUI\obj\x86\Release\APKToolGUI.FormExecution.ru-RU.resources
+D:\visual studio 2010\Projects\APKToolUI_2.2+Java_ТЕСТ\APKToolUI\obj\x86\Release\APKToolGUI.FormMain.uk-UA.resources
+D:\visual studio 2010\Projects\APKToolUI_2.2+Java_ТЕСТ\APKToolUI\obj\x86\Release\APKToolGUI.FormSettings.ru-RU.resources
+D:\visual studio 2010\Projects\APKToolUI_2.2+Java_ТЕСТ\APKToolUI\obj\x86\Release\APKToolGUI.FormSettings.uk-UA.resources
+D:\visual studio 2010\Projects\APKToolUI_2.2+Java_ТЕСТ\APKToolUI\obj\x86\Release\APKToolGUI.Language.ru-RU.resources
+D:\visual studio 2010\Projects\APKToolUI_2.2+Java_ТЕСТ\APKToolUI\obj\x86\Release\APKToolGUI.Language.uk-UA.resources
+D:\visual studio 2010\Projects\APKToolUI_2.2+Java_ТЕСТ\APKToolUI\obj\x86\Release\APKToolGUI.csproj.GenerateResource.Cache
+D:\visual studio 2010\Projects\APKToolUI_2.2+Java_ТЕСТ\APKToolUI\obj\x86\Release\ru-RU\APKToolGUI.resources.dll
+D:\visual studio 2010\Projects\APKToolUI_2.2+Java_ТЕСТ\APKToolUI\obj\x86\Release\uk-UA\APKToolGUI.resources.dll
+D:\visual studio 2010\Projects\APKToolUI_2.2+Java_ТЕСТ\APKToolUI\obj\x86\Release\APKToolGUI.TrustInfo.xml
+D:\visual studio 2010\Projects\APKToolUI_2.2+Java_ТЕСТ\APKToolUI\obj\x86\Release\APKToolGUI.exe.manifest
+D:\visual studio 2010\Projects\APKToolUI_2.2+Java_ТЕСТ\APKToolUI\obj\x86\Release\APKToolGUI.application
+D:\visual studio 2010\Projects\APKToolUI_2.2+Java_ТЕСТ\APKToolUI\obj\x86\Release\APKToolGUI.exe
+D:\Dropbox\C#\APKToolUI_2.2+Java\APKToolUI\bin\Release\APKToolGUI.exe.config
+D:\Dropbox\C#\APKToolUI_2.2+Java\APKToolUI\bin\Release\APKToolGUI.exe.manifest
+D:\Dropbox\C#\APKToolUI_2.2+Java\APKToolUI\bin\Release\APKToolGUI.application
+D:\Dropbox\C#\APKToolUI_2.2+Java\APKToolUI\bin\Release\APKToolGUI.exe
+D:\Dropbox\C#\APKToolUI_2.2+Java\APKToolUI\bin\Release\ru-RU\APKToolGUI.resources.dll
+D:\Dropbox\C#\APKToolUI_2.2+Java\APKToolUI\bin\Release\uk-UA\APKToolGUI.resources.dll
+D:\Dropbox\C#\APKToolUI_2.2+Java\APKToolUI\obj\x86\Release\APKToolGUI.FormAboutBox.resources
+D:\Dropbox\C#\APKToolUI_2.2+Java\APKToolUI\obj\x86\Release\APKToolGUI.FormMain.resources
+D:\Dropbox\C#\APKToolUI_2.2+Java\APKToolUI\obj\x86\Release\APKToolGUI.FormDownload.resources
+D:\Dropbox\C#\APKToolUI_2.2+Java\APKToolUI\obj\x86\Release\APKToolGUI.FormExecution.resources
+D:\Dropbox\C#\APKToolUI_2.2+Java\APKToolUI\obj\x86\Release\APKToolGUI.FormSettings.resources
+D:\Dropbox\C#\APKToolUI_2.2+Java\APKToolUI\obj\x86\Release\APKToolGUI.Properties.Resources.resources
+D:\Dropbox\C#\APKToolUI_2.2+Java\APKToolUI\obj\x86\Release\APKToolGUI.Language.resources
+D:\Dropbox\C#\APKToolUI_2.2+Java\APKToolUI\obj\x86\Release\APKToolGUI.FormAboutBox.ru-RU.resources
+D:\Dropbox\C#\APKToolUI_2.2+Java\APKToolUI\obj\x86\Release\APKToolGUI.FormAboutBox.uk-UA.resources
+D:\Dropbox\C#\APKToolUI_2.2+Java\APKToolUI\obj\x86\Release\APKToolGUI.FormExecution.uk-UA.resources
+D:\Dropbox\C#\APKToolUI_2.2+Java\APKToolUI\obj\x86\Release\APKToolGUI.FormMain.ru-RU.resources
+D:\Dropbox\C#\APKToolUI_2.2+Java\APKToolUI\obj\x86\Release\APKToolGUI.FormDownload.ru-RU.resources
+D:\Dropbox\C#\APKToolUI_2.2+Java\APKToolUI\obj\x86\Release\APKToolGUI.FormExecution.ru-RU.resources
+D:\Dropbox\C#\APKToolUI_2.2+Java\APKToolUI\obj\x86\Release\APKToolGUI.FormMain.uk-UA.resources
+D:\Dropbox\C#\APKToolUI_2.2+Java\APKToolUI\obj\x86\Release\APKToolGUI.FormSettings.ru-RU.resources
+D:\Dropbox\C#\APKToolUI_2.2+Java\APKToolUI\obj\x86\Release\APKToolGUI.FormSettings.uk-UA.resources
+D:\Dropbox\C#\APKToolUI_2.2+Java\APKToolUI\obj\x86\Release\APKToolGUI.Language.ru-RU.resources
+D:\Dropbox\C#\APKToolUI_2.2+Java\APKToolUI\obj\x86\Release\APKToolGUI.Language.uk-UA.resources
+D:\Dropbox\C#\APKToolUI_2.2+Java\APKToolUI\obj\x86\Release\APKToolGUI.csproj.GenerateResource.Cache
+D:\Dropbox\C#\APKToolUI_2.2+Java\APKToolUI\obj\x86\Release\ru-RU\APKToolGUI.resources.dll
+D:\Dropbox\C#\APKToolUI_2.2+Java\APKToolUI\obj\x86\Release\uk-UA\APKToolGUI.resources.dll
+D:\Dropbox\C#\APKToolUI_2.2+Java\APKToolUI\obj\x86\Release\APKToolGUI.TrustInfo.xml
+D:\Dropbox\C#\APKToolUI_2.2+Java\APKToolUI\obj\x86\Release\APKToolGUI.exe.manifest
+D:\Dropbox\C#\APKToolUI_2.2+Java\APKToolUI\obj\x86\Release\APKToolGUI.application
+D:\Dropbox\C#\APKToolUI_2.2+Java\APKToolUI\obj\x86\Release\APKToolGUI.exe
+D:\Dropbox\C#\APKToolUI_2.2+Java\APKToolUI\obj\x86\Release\APKToolGUI.csprojResolveAssemblyReference.cache
+D:\visual studio 2010\Projects\APKToolUI_2.2\APKToolUI\obj\x86\Release\APKToolGUI.csprojResolveAssemblyReference.cache
+D:\Dropbox\C#\APKToolUI_2.2_NewLog\APKToolUI\bin\Release\APKToolGUI.exe.config
+D:\Dropbox\C#\APKToolUI_2.2_NewLog\APKToolUI\bin\Release\APKToolGUI.exe.manifest
+D:\Dropbox\C#\APKToolUI_2.2_NewLog\APKToolUI\bin\Release\APKToolGUI.application
+D:\Dropbox\C#\APKToolUI_2.2_NewLog\APKToolUI\bin\Release\APKToolGUI.exe
+D:\Dropbox\C#\APKToolUI_2.2_NewLog\APKToolUI\bin\Release\ru-RU\APKToolGUI.resources.dll
+D:\Dropbox\C#\APKToolUI_2.2_NewLog\APKToolUI\bin\Release\uk-UA\APKToolGUI.resources.dll
+D:\Dropbox\C#\APKToolUI_2.2_NewLog\APKToolUI\obj\x86\Release\APKToolGUI.csprojResolveAssemblyReference.cache
+D:\Dropbox\C#\APKToolUI_2.2_NewLog\APKToolUI\obj\x86\Release\APKToolGUI.FormAboutBox.resources
+D:\Dropbox\C#\APKToolUI_2.2_NewLog\APKToolUI\obj\x86\Release\APKToolGUI.FormMain.resources
+D:\Dropbox\C#\APKToolUI_2.2_NewLog\APKToolUI\obj\x86\Release\APKToolGUI.FormDownload.resources
+D:\Dropbox\C#\APKToolUI_2.2_NewLog\APKToolUI\obj\x86\Release\APKToolGUI.FormExecution.resources
+D:\Dropbox\C#\APKToolUI_2.2_NewLog\APKToolUI\obj\x86\Release\APKToolGUI.FormSettings.resources
+D:\Dropbox\C#\APKToolUI_2.2_NewLog\APKToolUI\obj\x86\Release\APKToolGUI.Properties.Resources.resources
+D:\Dropbox\C#\APKToolUI_2.2_NewLog\APKToolUI\obj\x86\Release\APKToolGUI.Language.resources
+D:\Dropbox\C#\APKToolUI_2.2_NewLog\APKToolUI\obj\x86\Release\APKToolGUI.FormAboutBox.ru-RU.resources
+D:\Dropbox\C#\APKToolUI_2.2_NewLog\APKToolUI\obj\x86\Release\APKToolGUI.FormAboutBox.uk-UA.resources
+D:\Dropbox\C#\APKToolUI_2.2_NewLog\APKToolUI\obj\x86\Release\APKToolGUI.FormExecution.uk-UA.resources
+D:\Dropbox\C#\APKToolUI_2.2_NewLog\APKToolUI\obj\x86\Release\APKToolGUI.FormMain.ru-RU.resources
+D:\Dropbox\C#\APKToolUI_2.2_NewLog\APKToolUI\obj\x86\Release\APKToolGUI.FormDownload.ru-RU.resources
+D:\Dropbox\C#\APKToolUI_2.2_NewLog\APKToolUI\obj\x86\Release\APKToolGUI.FormExecution.ru-RU.resources
+D:\Dropbox\C#\APKToolUI_2.2_NewLog\APKToolUI\obj\x86\Release\APKToolGUI.FormMain.uk-UA.resources
+D:\Dropbox\C#\APKToolUI_2.2_NewLog\APKToolUI\obj\x86\Release\APKToolGUI.FormSettings.ru-RU.resources
+D:\Dropbox\C#\APKToolUI_2.2_NewLog\APKToolUI\obj\x86\Release\APKToolGUI.FormSettings.uk-UA.resources
+D:\Dropbox\C#\APKToolUI_2.2_NewLog\APKToolUI\obj\x86\Release\APKToolGUI.Language.ru-RU.resources
+D:\Dropbox\C#\APKToolUI_2.2_NewLog\APKToolUI\obj\x86\Release\APKToolGUI.Language.uk-UA.resources
+D:\Dropbox\C#\APKToolUI_2.2_NewLog\APKToolUI\obj\x86\Release\APKToolGUI.csproj.GenerateResource.Cache
+D:\Dropbox\C#\APKToolUI_2.2_NewLog\APKToolUI\obj\x86\Release\ru-RU\APKToolGUI.resources.dll
+D:\Dropbox\C#\APKToolUI_2.2_NewLog\APKToolUI\obj\x86\Release\uk-UA\APKToolGUI.resources.dll
+D:\Dropbox\C#\APKToolUI_2.2_NewLog\APKToolUI\obj\x86\Release\APKToolGUI.TrustInfo.xml
+D:\Dropbox\C#\APKToolUI_2.2_NewLog\APKToolUI\obj\x86\Release\APKToolGUI.exe.manifest
+D:\Dropbox\C#\APKToolUI_2.2_NewLog\APKToolUI\obj\x86\Release\APKToolGUI.application
+D:\Dropbox\C#\APKToolUI_2.2_NewLog\APKToolUI\obj\x86\Release\APKToolGUI.exe
+D:\Dropbox\C#\APKToolUI_2.3\APKToolUI\bin\Release\APKToolGUI.exe.config
+D:\Dropbox\C#\APKToolUI_2.3\APKToolUI\bin\Release\APKToolGUI.exe.manifest
+D:\Dropbox\C#\APKToolUI_2.3\APKToolUI\bin\Release\APKToolGUI.application
+D:\Dropbox\C#\APKToolUI_2.3\APKToolUI\bin\Release\APKToolGUI.exe
+D:\Dropbox\C#\APKToolUI_2.3\APKToolUI\bin\Release\ru-RU\APKToolGUI.resources.dll
+D:\Dropbox\C#\APKToolUI_2.3\APKToolUI\bin\Release\uk-UA\APKToolGUI.resources.dll
+D:\Dropbox\C#\APKToolUI_2.3\APKToolUI\obj\x86\Release\APKToolGUI.csprojResolveAssemblyReference.cache
+D:\Dropbox\C#\APKToolUI_2.3\APKToolUI\obj\x86\Release\APKToolGUI.FormAboutBox.resources
+D:\Dropbox\C#\APKToolUI_2.3\APKToolUI\obj\x86\Release\APKToolGUI.FormMain.resources
+D:\Dropbox\C#\APKToolUI_2.3\APKToolUI\obj\x86\Release\APKToolGUI.FormDownload.resources
+D:\Dropbox\C#\APKToolUI_2.3\APKToolUI\obj\x86\Release\APKToolGUI.FormExecution.resources
+D:\Dropbox\C#\APKToolUI_2.3\APKToolUI\obj\x86\Release\APKToolGUI.FormSettings.resources
+D:\Dropbox\C#\APKToolUI_2.3\APKToolUI\obj\x86\Release\APKToolGUI.Properties.Resources.resources
+D:\Dropbox\C#\APKToolUI_2.3\APKToolUI\obj\x86\Release\APKToolGUI.Language.resources
+D:\Dropbox\C#\APKToolUI_2.3\APKToolUI\obj\x86\Release\APKToolGUI.FormAboutBox.ru-RU.resources
+D:\Dropbox\C#\APKToolUI_2.3\APKToolUI\obj\x86\Release\APKToolGUI.FormAboutBox.uk-UA.resources
+D:\Dropbox\C#\APKToolUI_2.3\APKToolUI\obj\x86\Release\APKToolGUI.FormExecution.uk-UA.resources
+D:\Dropbox\C#\APKToolUI_2.3\APKToolUI\obj\x86\Release\APKToolGUI.FormMain.ru-RU.resources
+D:\Dropbox\C#\APKToolUI_2.3\APKToolUI\obj\x86\Release\APKToolGUI.FormDownload.ru-RU.resources
+D:\Dropbox\C#\APKToolUI_2.3\APKToolUI\obj\x86\Release\APKToolGUI.FormExecution.ru-RU.resources
+D:\Dropbox\C#\APKToolUI_2.3\APKToolUI\obj\x86\Release\APKToolGUI.FormMain.uk-UA.resources
+D:\Dropbox\C#\APKToolUI_2.3\APKToolUI\obj\x86\Release\APKToolGUI.FormSettings.ru-RU.resources
+D:\Dropbox\C#\APKToolUI_2.3\APKToolUI\obj\x86\Release\APKToolGUI.FormSettings.uk-UA.resources
+D:\Dropbox\C#\APKToolUI_2.3\APKToolUI\obj\x86\Release\APKToolGUI.Language.ru-RU.resources
+D:\Dropbox\C#\APKToolUI_2.3\APKToolUI\obj\x86\Release\APKToolGUI.Language.uk-UA.resources
+D:\Dropbox\C#\APKToolUI_2.3\APKToolUI\obj\x86\Release\APKToolGUI.csproj.GenerateResource.Cache
+D:\Dropbox\C#\APKToolUI_2.3\APKToolUI\obj\x86\Release\ru-RU\APKToolGUI.resources.dll
+D:\Dropbox\C#\APKToolUI_2.3\APKToolUI\obj\x86\Release\uk-UA\APKToolGUI.resources.dll
+D:\Dropbox\C#\APKToolUI_2.3\APKToolUI\obj\x86\Release\APKToolGUI.TrustInfo.xml
+D:\Dropbox\C#\APKToolUI_2.3\APKToolUI\obj\x86\Release\APKToolGUI.exe.manifest
+D:\Dropbox\C#\APKToolUI_2.3\APKToolUI\obj\x86\Release\APKToolGUI.application
+D:\Dropbox\C#\APKToolUI_2.3\APKToolUI\obj\x86\Release\APKToolGUI.exe
